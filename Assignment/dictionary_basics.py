@@ -1,0 +1,10 @@
+x={}
+print(x)
+print(type(x))
+y=dict([(1,'apple'),(2,'ball')])
+print(y)
+print(type(y))
+z={'java':90,'python':99,'hadoop':95}
+print(z)
+print(type(z))
+print(len(z))

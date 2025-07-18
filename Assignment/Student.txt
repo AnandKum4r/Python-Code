@@ -1,0 +1,4 @@
+Student Roll Number is : 7
+Student Name is : Anand Kumar
+Student Address is : Bansgaon, Gorakhpur, UP
+Student Contact Number is : 1234567890

@@ -1,0 +1,5 @@
+n=int(input("Enter number of days : "))
+year=int(n/365)
+weeks=int((n%365)/7)
+days=((n%365)%7)
+print(year , "year," , weeks , "weeks," , days , "days")
